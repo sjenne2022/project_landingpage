@@ -26,6 +26,12 @@ ul {
     color: #E5E7EB;
 }
 
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .hero_section {
     display: flex;
     flex-direction: column;
@@ -56,4 +62,19 @@ ul {
     height: 35px;
     border-radius: 8px;
     margin-top: 5px;
+}
+
+.hero_picture {
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-top: 150px;
+    margin-right: 400px;
+}
+
+.hero_picture p {
+    background-color: grey;
+    color: #E5E7EB;
 }
