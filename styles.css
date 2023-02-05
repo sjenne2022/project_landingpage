@@ -1,0 +1,26 @@
+* {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 200px;
+    font-size: 24px;
+    margin: auto;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: auto;
+    font-size: 18px;
+    color: #E5E7EB;
+}
