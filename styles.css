@@ -133,3 +133,39 @@ ul {
     margin-bottom: 100px;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.message {
+    background-color: #E5E7EB;
+    margin-bottom: 0;
+
+}
+
+.message p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    background-color: #E5E7EB;
+    width: 830px;
+}
+
+.author {
+    background-color: #E5E7EB;
+    margin-top: -44px;
+}
+
+.author p {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #1F2937;
+    background-color: #E5E7EB;
+    margin-left: 600px;
+}
