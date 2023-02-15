@@ -217,3 +217,12 @@ ul {
     font-size: 18px;
     font-weight: bolder;
 }
+
+footer p {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 50px;
+    font-size: 20px;
+    font-weight: lighter;
+}
