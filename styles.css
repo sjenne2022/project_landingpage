@@ -169,3 +169,51 @@ ul {
     background-color: #E5E7EB;
     margin-left: 600px;
 }
+
+.callToAction {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.blue {
+    background-color: #3882F6;
+    display: flex;
+    flex-direction: row;
+    gap: 350px;
+    padding: 50px 300px;
+    border-radius: 10px;
+}
+
+.action {
+    background-color: #3882F6;
+}
+
+.action p {
+    background-color: #3882F6;
+    margin: 0;
+}
+
+.bold {
+    font-weight: bolder;
+    font-size: 25px;
+    color: white;
+}
+
+.over {
+    color: #E5E7EB;
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.up {
+    border: 2px solid white;
+    background-color: #3882F6;
+    width: 140px;
+    height: 40px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bolder;
+}
