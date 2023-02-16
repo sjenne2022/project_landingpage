@@ -185,6 +185,7 @@ ul {
     gap: 350px;
     padding: 50px 300px;
     border-radius: 10px;
+    align-items: center;
 }
 
 .action {
